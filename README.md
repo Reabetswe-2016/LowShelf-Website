@@ -44,7 +44,15 @@ The objectives are to:
 
 ## Key Features and Functionality
 
-The website currently contains the following pages:
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Visual Studio Code
+- GitHub
+
+## Website Pages
 
 - Home
 - About Us
@@ -52,33 +60,41 @@ The website currently contains the following pages:
 - Gallery
 - Request a Quote
 - Contact Us
+- Sitemap
 
-The website includes:
+## Responsive Design
 
-- Navigation between pages.
-- Product and service information.
-- Images.
-- A quotation enquiry form.
-- A contact enquiry form.
-- Responsive image styling.
-- Consistent website styling.
+The website has been designed to work across desktop, tablet
+and mobile screen sizes.
 
----
+CSS media queries, relative units, Flexbox and CSS Grid are used
+to create a responsive layout.
 
-## Project Structure
+## Changelog
 
-```text
-LowShelf-Website/
-│
-├── css/
-│ └── style.css
-│
-├── images/
-│ └── warehouse-racking.jpg
-│
-├── index.html
-├── about.html
-├── products.html
-├── gallery.html
-├── quote.html
-└── contact.html
+### Part 2
+
+- Corrected HTML indentation across the website.
+- Corrected the image filename reference.
+- Added and improved the external CSS stylesheet.
+- Added a CSS reset.
+- Added typography and visual styling.
+- Added Flexbox navigation.
+- Added CSS Grid for product layouts.
+- Added responsive breakpoints for tablet and mobile devices.
+- Added responsive image styling.
+- Added JavaScript functionality.
+- Added quote form validation.
+- Added a sitemap.
+- Added a wireframe.
+- Improved form styling.
+- Added hover effects to navigation and buttons.
+- Tested the website at desktop, tablet and mobile screen sizes.
+
+## Testing
+
+Testing will be performed using browser developer tools at
+different screen sizes.
+
+## References
+
