@@ -98,3 +98,16 @@ different screen sizes.
 
 ## References
 
+Apple Inc. (2026) Lowveld Shelving and Racking. Apple Maps. Available at: https://maps.apple/p/WEhP3LtT2o1yGV (Accessed: 9 September 2026).
+
+Lowveld Shelving and Racking (n.d.) About us. Available at: https://www.lowshelf.co.za/ (Accessed: 9 September 2026).  
+
+Think Local (n.d.) Lowveld Shelving, White River. Available at: https://www.thinklocal.co.za/biz/lowveld-shelving-white-river (Accessed: 9 September 2026).
+
+World Wide Web Consortium (W3C) (2024) Web Content Accessibility Guidelines (WCAG) 2.2. Available at: https://www.w3.org/TR/wcag/ (Accessed: 9 September 2026).  
+
+World Wide Web Consortium (W3C) (2026a) Media Queries Level 4. Available at: https://www.w3.org/TR/mediaqueries-4/ (Accessed: 9 September 2026).  
+
+World Wide Web Consortium (W3C) (2026b) Technique C32: Using media queries and grid CSS to reflow columns. Available at: https://www.w3.org/WAI/WCAG21/Techniques/css/C32 (Accessed: 9 September 2026).  
+
+World Wide Web Consortium (W3C) (n.d.) Developing for Web Accessibility – Tips for Getting Started. Available at: https://www.w3.org/WAI/tips/developing/ (Accessed: 9 September 2026). 
